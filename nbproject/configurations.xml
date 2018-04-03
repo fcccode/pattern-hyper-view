@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="97">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <logicalFolder name="HeaderFiles"
+                   displayName="Header Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="ResourceFiles"
+                   displayName="Resource Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="SourceFiles"
+                   displayName="Source Files"
+                   projectFiles="true">
+      <itemPath>main.cpp</itemPath>
+    </logicalFolder>
+    <logicalFolder name="TestFiles"
+                   displayName="Test Files"
+                   projectFiles="false"
+                   kind="TEST_LOGICAL_FOLDER">
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+    <itemPath>/home/dev/myfolder/pattern-task/projects/hyper-view/AGuestOS.h</itemPath>
+    <itemPath>/home/dev/myfolder/pattern-task/projects/hyper-view/AHypervisor.h</itemPath>
+    <itemPath>/home/dev/myfolder/pattern-task/projects/hyper-view/AVirtM.h</itemPath>
+    <itemPath>/home/dev/myfolder/pattern-task/projects/hyper-view/CHyperV.cpp</itemPath>
+    <itemPath>/home/dev/myfolder/pattern-task/projects/hyper-view/CHyperV.h</itemPath>
+    <itemPath>/home/dev/myfolder/pattern-task/projects/hyper-view/CHyperVVirtM.h</itemPath>
+    <itemPath>/home/dev/myfolder/pattern-task/projects/hyper-view/CLinux.h</itemPath>
+    <itemPath>/home/dev/myfolder/pattern-task/projects/hyper-view/CTaskEvent.h</itemPath>
+    <itemPath>/home/dev/myfolder/pattern-task/projects/hyper-view/CWindows.h</itemPath>
+    <itemPath>/home/dev/myfolder/pattern-task/projects/hyper-view/InonCopyable.h</itemPath>
+  </logicalFolder>
+  <sourceRootList>
+    <Elem>/home/dev/myfolder/pattern-task/projects/hyper-view</Elem>
+  </sourceRootList>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Debug" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <ccTool>
+          <standard>8</standard>
+        </ccTool>
+      </compileType>
+      <item path="/home/dev/myfolder/pattern-task/projects/hyper-view/AGuestOS.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/dev/myfolder/pattern-task/projects/hyper-view/AHypervisor.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/dev/myfolder/pattern-task/projects/hyper-view/AVirtM.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/dev/myfolder/pattern-task/projects/hyper-view/CHyperV.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="/home/dev/myfolder/pattern-task/projects/hyper-view/CHyperV.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/dev/myfolder/pattern-task/projects/hyper-view/CHyperVVirtM.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/dev/myfolder/pattern-task/projects/hyper-view/CLinux.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/dev/myfolder/pattern-task/projects/hyper-view/CTaskEvent.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/dev/myfolder/pattern-task/projects/hyper-view/CWindows.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/dev/myfolder/pattern-task/projects/hyper-view/InonCopyable.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+    </conf>
+    <conf name="Release" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <developmentMode>5</developmentMode>
+        </cTool>
+        <ccTool>
+          <developmentMode>5</developmentMode>
+          <standard>11</standard>
+        </ccTool>
+        <fortranCompilerTool>
+          <developmentMode>5</developmentMode>
+        </fortranCompilerTool>
+        <asmTool>
+          <developmentMode>5</developmentMode>
+        </asmTool>
+      </compileType>
+      <item path="/home/dev/myfolder/pattern-task/projects/hyper-view/AGuestOS.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/dev/myfolder/pattern-task/projects/hyper-view/AHypervisor.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/dev/myfolder/pattern-task/projects/hyper-view/AVirtM.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/dev/myfolder/pattern-task/projects/hyper-view/CHyperV.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="/home/dev/myfolder/pattern-task/projects/hyper-view/CHyperV.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/dev/myfolder/pattern-task/projects/hyper-view/CHyperVVirtM.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/dev/myfolder/pattern-task/projects/hyper-view/CLinux.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/dev/myfolder/pattern-task/projects/hyper-view/CTaskEvent.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/dev/myfolder/pattern-task/projects/hyper-view/CWindows.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/dev/myfolder/pattern-task/projects/hyper-view/InonCopyable.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>

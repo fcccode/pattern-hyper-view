@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <data xmlns="http://www.netbeans.org/ns/make-project-private/1">
+        <activeConfTypeElem>1</activeConfTypeElem>
+        <activeConfIndexElem>0</activeConfIndexElem>
+    </data>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/dev/myfolder/pattern-task/projects/hyper-view/CLinux.h</file>
+            <file>file:/home/dev/myfolder/pattern-task/projects/hyper-view/CWindows.h</file>
+            <file>file:/home/dev/myfolder/pattern-task/projects/hyper-view/CHyperVVirtM.h</file>
+            <file>file:/home/dev/myfolder/pattern-task/projects/hyper-view/AHypervisor.h</file>
+            <file>file:/home/dev/myfolder/pattern-task/projects/hyper-view/CHyperV.cpp</file>
+            <file>file:/home/dev/myfolder/pattern-task/projects/hyper-view/CTaskEvent.h</file>
+            <file>file:/home/dev/myfolder/pattern-task/projects/hyper-view/AVirtM.h</file>
+            <file>file:/home/dev/myfolder/pattern-task/projects/hyper-view/InonCopyable.h</file>
+            <file>file:/home/dev/myfolder/pattern-task/projects/hyper-view/AGuestOS.h</file>
+            <file>file:/home/dev/myfolder/pattern-task/projects/hyper-view/CHyperV.h</file>
+            <file>file:/home/dev/myfolder/pattern-task/projects/hyper-view/main.cpp</file>
+        </group>
+    </open-files>
+</project-private>
